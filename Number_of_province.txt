@@ -1,0 +1,3 @@
+First Question of Graph:
+link for leetcode solution:
+https://leetcode.com/problems/number-of-provinces/solutions/3172715/solution-using-dfs-of-graph/?orderBy=most_votes 
