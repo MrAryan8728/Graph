@@ -12,3 +12,6 @@ Some Basic Terminology :
     for Degree of Graph is equal to 2 * edge.
 
  
+ Some very Important link for preperation.
+ https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions
+ https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions
